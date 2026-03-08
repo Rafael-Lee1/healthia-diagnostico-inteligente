@@ -11,13 +11,21 @@ origins = [
     "http://localhost:5173",
 ]
 
-frontend_url = os.getenv("FRONTEND_URL", "").strip()
+frontend_urls_env = os.getenv("FRONTEND_URLS", "").strip()
+if frontend_urls_env:
+    extra_origins = [url.strip().rstrip("/") for url in frontend_urls_env.split(",") if url.strip()]
+    origins.extend(extra_origins)
+
+frontend_url = os.getenv("FRONTEND_URL", "").strip().rstrip("/")
 if frontend_url:
     origins.append(frontend_url)
 
+allow_all_origins = os.getenv("ALLOW_ALL_ORIGINS", "false").lower() == "true"
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=origins,
+    allow_origins=["*"] if allow_all_origins else sorted(set(origins)),
+    allow_origin_regex=None if allow_all_origins else r"^https://.*\.up\.railway\.app$",
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],

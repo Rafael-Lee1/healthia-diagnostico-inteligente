@@ -1,0 +1,301 @@
+id,nome_paciente,idade,sexo,data_consulta,sintomas_relatados,diagnostico_final,observacoes
+204,Paula Rodrigues,28,F,24/02/2025,Dor Muscular; Tremores; perda de reflexos,Esclerose Lateral,Paciente apresentou 3 sintomas. Consulta realizada em 24/02/2025.
+267,Gustavo Nascimento,37,F,19/01/2025,febre; rash; pálido,Lúpus,Paciente apresentou 3 sintomas. Consulta realizada em 19/01/2025.
+153,Carlos Oliveira,40,m,06/04/2025,dor muscular; tremedeira; Fraqueza; disartria; perda de reflexos,Esclerose Lateral,Paciente apresentou 5 sintomas. Consulta realizada em 06/04/2025.
+10,Priscila Monteiro,57,F,01/07/2025,vista embaçada; fraqueza; fadiga; disartria; visão dupla; dificuldade para engolir,Miastenia Gravis,Paciente apresentou 6 sintomas. Consulta realizada em 01/07/2025.
+234,R0drig0 C4rv4lh0,31,f,15/07/2025,exaustão; febre; manchas pele; confusao,Febre Maculosa,Paciente apresentou 4 sintomas. Consulta realizada em 15/07/2025.
+227,Priscila Monteiro,53,M,17/03/2025,artralgia; Manchas na Pele; fotofobia; FADIGA; temp alta; Fraqueza; urticária,Lúpus,Paciente apresentou 7 sintomas. Consulta realizada em 17/03/2025.
+197,Rodrigo Carvalho,68,F,28/03/2025,dificuldade falar; visao turva; exaustao; fraqueza; visão dupla; dificuldade para engolir,Miastenia Gravis,Paciente apresentou 6 sintomas. Consulta realizada em 28/03/2025.
+110,Ricardo Souza,71,f,06/02/2025,manchas pele; febre; dor muscular,Doença de Lyme,Paciente apresentou 3 sintomas. Consulta realizada em 06/02/2025.
+6,Fernanda Lima,81,Feminino,01/02/2025,artralgia; febre; Manchas na Pele; cansaco; confusao,Doença de Lyme,Paciente apresentou 5 sintomas. Consulta realizada em 01/02/2025.
+176,Gustavo Nascimento,36,M,03/06/2025,Confusão; manchas pele; DOR MUSCULAR; TREMORES,Febre Maculosa,Paciente apresentou 4 sintomas. Consulta realizada em 03/06/2025.
+238,Edu4rd0 R4m0s,54,Masculino,16/05/2025,Dor Muscular; dificuldade falar; astenia; tremedeira; FADIGA,Esclerose Lateral,Paciente apresentou 5 sintomas. Consulta realizada em 16/05/2025.
+58,Aline Cardoso,29,Masculino,12/05/2025,dor musculo; cansaço; desorientacao; dores articulares,Febre Maculosa,Paciente apresentou 4 sintomas. Consulta realizada em 12/05/2025.
+219,Fernanda Lima,35,m,18/06/2025,FADIGA; Fala Arrastada; visão turva; dificuldade para engolir,Miastenia Gravis,Paciente apresentou 4 sintomas. Consulta realizada em 18/06/2025.
+46,Letícia Correia,78,f,12/03/2025,debilidade; dificuldade falar; cansaco; Visão Turva,Miastenia Gravis,Paciente apresentou 4 sintomas. Consulta realizada em 12/03/2025.
+183,Bruno Gomes,28,M,09/06/2025,artralgia; fadiga; erupção; fraqueza; DOR MUSCULAR,Doença de Lyme,Paciente apresentou 5 sintomas. Consulta realizada em 09/06/2025.
+222,Rodrigo Carvalho,35,M,12/07/2025,dor muscular; tremor; rigidez muscular; fadiga; tremor; dor muscular,Esclerose Lateral,Paciente apresentou 4 sintomas. Consulta realizada em 12/07/2025.
+290,Daniel Dias,69,M,17/04/2025,rash; dores articulares; hipertermia; cansaco; Urticária; calvície,Lúpus,Paciente apresentou 6 sintomas. Consulta realizada em 17/04/2025.
+212,Paula Rodrigues,31,m,24/01/2025,FRAQUEZA; Dores Articulares,Fibromialgia,Paciente apresentou 2 sintomas. Consulta realizada em 24/01/2025.
+149,Rodrigo Carvalho,45,F,22/01/2025,tremedeira; mialgia; astenia; rigidez muscular,Esclerose Lateral,Paciente apresentou 4 sintomas. Consulta realizada em 22/01/2025.
+166,Ric4rd0 S0uz4,26,f,07/06/2025,hipertermia; exaustão,Febre Maculosa,Paciente apresentou 2 sintomas. Consulta realizada em 07/06/2025.
+79,Ana Costa,44,m,21/05/2025,dor articular; Fadiga,Lúpus,Paciente apresentou 2 sintomas. Consulta realizada em 21/05/2025.
+114,Gustavo Nascimento,50,M,31/01/2025,FEBRE; DOR MUSCULAR; desorientacao; cansaço; rash,Febre Maculosa,Paciente apresentou 5 sintomas. Consulta realizada em 31/01/2025.
+250,Natália Vieira,77,m,05/04/2025,emagrecimento; FEBRE,Doença de Crohn,Paciente apresentou 2 sintomas. Consulta realizada em 05/04/2025.
+251,Camila Araújo,62,Masculino,04/06/2025,erupção; Dor Muscular; debilidade,Febre Maculosa,Paciente apresentou 3 sintomas. Consulta realizada em 04/06/2025.
+105,Rodrigo Carvalho,78,F,12/04/2025,dor articular; Manchas na Pele; FADIGA,Doença de Lyme,Paciente apresentou 3 sintomas. Consulta realizada em 12/04/2025.
+43,Letícia Correia,37,Feminino,31/05/2025,perda de peso; cansaço; pálido; hipotensão; hiperpigmentação,Doença de Addison,Paciente apresentou 5 sintomas. Consulta realizada em 31/05/2025.
+282,Camila Araújo,40,f,13/06/2025,fala lenta; Fraqueza; dor musculo; perda de reflexos; rigidez muscular,Esclerose Lateral,Paciente apresentou 5 sintomas. Consulta realizada em 13/06/2025.
+296,Ricardo Souza,35,f,06/04/2025,dor musculo; febre; erupção; Confusão; dor articular,Febre Maculosa,Paciente apresentou 5 sintomas. Consulta realizada em 06/04/2025.
+158,Letícia Correia,71,Feminino,07/06/2025,dor musculo; debilidade; tremedeira; disartria; rigidez muscular,Esclerose Lateral,Paciente apresentou 5 sintomas. Consulta realizada em 07/06/2025.
+239,Marcos Pereira,79,F,21/06/2025,dor na barriga; fadiga; fadiga; dor na barriga,Doença de Crohn,Paciente apresentou 2 sintomas. Consulta realizada em 21/06/2025.
+18,Eduardo Ramos,48,Feminino,15/06/2025,fala lenta; dor muscular,Esclerose Lateral,Paciente apresentou 2 sintomas. Consulta realizada em 15/06/2025.
+165,Pedro Almeida,25,m,07/07/2025,Fadiga; perda peso; febr,Doença de Crohn,Paciente apresentou 3 sintomas. Consulta realizada em 07/07/2025.
+34,Natália Vieira,53,m,13/03/2025,rash; cansaço; Dor Muscular; desorientação; febr; FRAQUEZA; Dores Articulares,Febre Maculosa,Paciente apresentou 7 sintomas. Consulta realizada em 13/03/2025.
+25,Eduardo Ramos,49,f,19/06/2025,FRAQUEZA; Tremores,Esclerose Lateral,Paciente apresentou 2 sintomas. Consulta realizada em 19/06/2025.
+216,Maria Silva,70,M,17/05/2025,FADIGA; dor articular; erupção; Fotofobia; Urticária; Palidez,Lúpus,Paciente apresentou 6 sintomas. Consulta realizada em 17/05/2025.
+120,Carla Ribeiro,33,Masculino,10/05/2025,febr; dor articular,Doença de Lyme,Paciente apresentou 2 sintomas. Consulta realizada em 10/05/2025.
+8,Aline Cardoso,50,m,13/07/2025,fadiga; sensibilidade à luz; palido; astenia,Lúpus,Paciente apresentou 4 sintomas. Consulta realizada em 13/07/2025.
+91,Fernanda Lima,56,F,10/06/2025,cansaço; fala lenta; visão turva; fraqueza,Miastenia Gravis,Paciente apresentou 4 sintomas. Consulta realizada em 10/06/2025.
+47,Gustavo Nascimento,62,Feminino,25/02/2025,artralgia; exaustão; urticaria,Lúpus,Paciente apresentou 3 sintomas. Consulta realizada em 25/02/2025.
+74,Ana Costa,68,M,09/05/2025,Fala Arrastada; debilidade; visão embaçada; FADIGA,Miastenia Gravis,Paciente apresentou 4 sintomas. Consulta realizada em 09/05/2025.
+94,Aline Cardoso,64,M,26/03/2025,pressao baixa; Palidez; exaustao; perda peso,Doença de Addison,Paciente apresentou 4 sintomas. Consulta realizada em 26/03/2025.
+77,Paula Rodrigues,22,f,12/04/2025,febre; peso baixo; dor estomago; debilidade,Doença de Crohn,Paciente apresentou 4 sintomas. Consulta realizada em 12/04/2025.
+287,João Santos,19,f,12/05/2025,erupção; hipertermia; exaustão; artralgia; desorientacao,Doença de Lyme,Paciente apresentou 5 sintomas. Consulta realizada em 12/05/2025.
+61,Daniel Dias,36,Feminino,28/05/2025,exaustao; mialgia; desorientação; Dores Articulares; debilidade,Febre Maculosa,Paciente apresentou 5 sintomas. Consulta realizada em 28/05/2025.
+78,Carlos Oliveira,76,M,27/01/2025,perda de peso; dor na barriga; azia; Fraqueza,Doença de Crohn,Paciente apresentou 4 sintomas. Consulta realizada em 27/01/2025.
+64,Eduardo Ramos,37,Feminino,06/07/2025,erupção; temperatura; exaustao; dor nas juntas; debilidade,Doença de Lyme,Paciente apresentou 5 sintomas. Consulta realizada em 06/07/2025.
+235,Carlos Oliveira,79,m,30/01/2025,hipotensao; palido; hiperpigmentação,Doença de Addison,Paciente apresentou 3 sintomas. Consulta realizada em 30/01/2025.
+230,Simone Teixeira,32,m,13/04/2025,hipertermia; artralgia; manchas na pele; fotofobia; Fadiga; Urticária,Lúpus,Paciente apresentou 6 sintomas. Consulta realizada em 13/04/2025.
+112,Rafael Barbosa,48,f,28/01/2025,febre; FADIGA; fraqueza,Doença de Crohn,Paciente apresentou 3 sintomas. Consulta realizada em 28/01/2025.
+232,Lucia Ferreira,40,f,15/07/2025,exaustão; FRAQUEZA; alteração de humor,Fibromialgia,Paciente apresentou 3 sintomas. Consulta realizada em 15/07/2025.
+181,Thiago Mendes,28,M,13/05/2025,cansaco; palidez; emagrecimento; hiperpigmentação; astenia,Doença de Addison,Paciente apresentou 5 sintomas. Consulta realizada em 13/05/2025.
+145,Juliana Martins,38,f,20/03/2025,hipertermia; fadiga,Doença de Crohn,Paciente apresentou 2 sintomas. Consulta realizada em 20/03/2025.
+240,Carla Ribeiro,41,Masculino,09/04/2025,emagrecimento; fadiga; refluxo gastrico,Doença de Crohn,Paciente apresentou 3 sintomas. Consulta realizada em 09/04/2025.
+76,Carlos Oliveira,30,F,28/02/2025,perda de peso; febre; FADIGA; dor na barriga,Doença de Crohn,Paciente apresentou 4 sintomas. Consulta realizada em 28/02/2025.
+298,Thiago Mendes,50,F,16/06/2025,Fraqueza; Dores Articulares; dores crônicas; alteração de humor,Fibromialgia,Paciente apresentou 4 sintomas. Consulta realizada em 16/06/2025.
+279,Natália Vieira,55,m,04/03/2025,Perda de Peso; febre; FADIGA; dor abdominal,Doença de Crohn,Paciente apresentou 4 sintomas. Consulta realizada em 04/03/2025.
+98,Vanessa Castro,29,m,13/02/2025,fotofobia; FEBRE; exaustao; artralgia; queda de cabelo,Lúpus,Paciente apresentou 5 sintomas. Consulta realizada em 13/02/2025.
+93,Aline Cardoso,27,Masculino,18/02/2025,debilidade; dores articulares,Fibromialgia,Paciente apresentou 2 sintomas. Consulta realizada em 18/02/2025.
+193,Rafael Barbosa,29,Feminino,15/06/2025,palido; pressao baixa,Doença de Addison,Paciente apresentou 2 sintomas. Consulta realizada em 15/06/2025.
+26,Rodrigo Carvalho,49,Masculino,05/06/2025,Palidez; exaustão; emagrecimento; hipotensão; sensação de frio,Doença de Addison,Paciente apresentou 5 sintomas. Consulta realizada em 05/06/2025.
+233,Rafael Barbosa,58,F,03/02/2025,cansaço; Pressão Baixa; pálido; perda de peso; Fraqueza; sensação de frio,Doença de Addison,Paciente apresentou 6 sintomas. Consulta realizada em 03/02/2025.
+60,Daniel Dias,,m,02/04/2025,fadiga; rash; Dores Articulares; Confusão; DOR MUSCULAR,Doença de Lyme,Paciente apresentou 5 sintomas. Consulta realizada em 02/04/2025.
+7,Rafael Barbosa,46,F,07/03/2025,visão embaçada; dificuldade falar; dificuldade para engolir; visão dupla,Miastenia Gravis,Paciente apresentou 4 sintomas. Consulta realizada em 07/03/2025.
+186,Priscila Monteiro,43,Feminino,14/02/2025,dor musculo; tremedeira,Esclerose Lateral,Paciente apresentou 2 sintomas. Consulta realizada em 14/02/2025.
+174,Sim0ne Teixeir4,52,M,12/06/2025,dor muscular; TREMORES; debilidade; disartria,Esclerose Lateral,Paciente apresentou 4 sintomas. Consulta realizada em 12/06/2025.
+31,Aline Cardoso,74,Feminino,24/01/2025,debilidade; tremedeira; fala lenta; dor musculo; FADIGA,Esclerose Lateral,Paciente apresentou 5 sintomas. Consulta realizada em 24/01/2025.
+23,Simone Teixeira,34,f,09/05/2025,manchas na pele; artralgia,Lúpus,Paciente apresentou 2 sintomas. Consulta realizada em 09/05/2025.
+257,Pedro Almeida,55,M,17/03/2025,artralgia; cansaco; sensibilidade luz; Palidez; astenia,Lúpus,Paciente apresentou 5 sintomas. Consulta realizada em 17/03/2025.
+57,Gustavo Nascimento,62,Feminino,21/04/2025,Fotofobia; temp alta; erupção; exaustão; palido; urticária,Lúpus,Paciente apresentou 6 sintomas. Consulta realizada em 21/04/2025.
+187,Pedro Almeida,64,Masculino,26/05/2025,cansaco; dores articulares; rash,Lúpus,Paciente apresentou 3 sintomas. Consulta realizada em 26/05/2025.
+109,Simone Teixeira,,Feminino,08/02/2025,exaustão; Dor Muscular; sono ruim,Fibromialgia,Paciente apresentou 3 sintomas. Consulta realizada em 08/02/2025.
+127,Thiago Mendes,21,Feminino,05/02/2025,dor musculo; Fraqueza; dor articular; cansaço; alteração de humor; sono ruim,Fibromialgia,Paciente apresentou 6 sintomas. Consulta realizada em 05/02/2025.
+231,Rodrigo Carvalho,80,f,25/04/2025,Fraqueza; Dores Articulares; dor musculo; cansaço; sono ruim,Fibromialgia,Paciente apresentou 5 sintomas. Consulta realizada em 25/04/2025.
+194,Natália Vieira,44,M,20/02/2025,Dores Articulares; rash; Fraqueza; Confusão,Doença de Lyme,Paciente apresentou 4 sintomas. Consulta realizada em 20/02/2025.
+130,Ricardo Souza,38,Masculino,18/02/2025,hipertermia; rash; desorientação,Doença de Lyme,Paciente apresentou 3 sintomas. Consulta realizada em 18/02/2025.
+283,Bruno Gomes,83,Masculino,17/01/2025,FRAQUEZA; cansaço; Dor Muscular; Dores Articulares; sono ruim,Fibromialgia,Paciente apresentou 5 sintomas. Consulta realizada em 17/01/2025.
+83,Patrícia Rocha,55,Feminino,08/03/2025,tremor; dor nos músculos; rigidez muscular; perda de reflexos,Esclerose Lateral,Paciente apresentou 4 sintomas. Consulta realizada em 08/03/2025.
+85,Natália Vieira,28,M,2025-03-27,dor nas juntas; fraqueza; fadiga; dores crônicas,Fibromialgia,Paciente apresentou 4 sintomas. Consulta realizada em 27/03/2025.
+67,Pedro Almeida,56,M,04/07/2025,fraqueza; vista embaçada,Miastenia Gravis,Paciente apresentou 2 sintomas. Consulta realizada em 04/07/2025.
+289,Aline Cardoso,37,M,06/06/2025,temp alta; exaustao; manchas pele; dor muscular; confusao,Febre Maculosa,Paciente apresentou 5 sintomas. Consulta realizada em 06/06/2025.
+164,Gustavo Nascimento,61,Masculino,12/03/2025,palido; cansaco; Pressão Baixa,Doença de Addison,Paciente apresentou 3 sintomas. Consulta realizada em 12/03/2025.
+155,Ricardo Souza,44,M,20/06/2025,tremor; astenia; fala arrastada,Esclerose Lateral,Paciente apresentou 3 sintomas. Consulta realizada em 20/06/2025.
+20,Patrícia Rocha,51,F,17/04/2025,cansaco; Febre,Febre Maculosa,Paciente apresentou 2 sintomas. Consulta realizada em 17/04/2025.
+125,Rafael Barbosa,84,Masculino,25/06/2025,Fotofobia; FADIGA; Urticária,Lúpus,Paciente apresentou 3 sintomas. Consulta realizada em 25/06/2025.
+80,Carlos Oliveira,21,F,12/07/2025,Fadiga; dor articular; FEBRE; Dor Muscular,Doença de Lyme,Paciente apresentou 4 sintomas. Consulta realizada em 12/07/2025.
+115,Priscila Monteiro,69,f,25/03/2025,artralgia; cansaço,Fibromialgia,Paciente apresentou 2 sintomas. Consulta realizada em 25/03/2025.
+119,Patrícia Rocha,64,Feminino,26/04/2025,cansaço; perda de peso; hipotensao; Palidez; hiperpigmentação,Doença de Addison,Paciente apresentou 5 sintomas. Consulta realizada em 26/04/2025.
+73,Natália Vieira,39,Masculino,14/03/2025,Fadiga; Febre; sensibilidade luz; dor articular; sem cor; alopecia,Lúpus,Paciente apresentou 6 sintomas. Consulta realizada em 14/03/2025.
+16,Rodrigo Carvalho,76,Masculino,29/03/2025,febr; manchas pele; exaustao,Doença de Lyme,Paciente apresentou 3 sintomas. Consulta realizada em 29/03/2025.
+11,Paula Rodrigues,72,F,27/02/2025,exaustão; febr; tremedeira; Fraqueza,Febre Maculosa,Paciente apresentou 4 sintomas. Consulta realizada em 27/02/2025.
+195,Paula Rodrigues,34,f,12/06/2025,Visão Turva; exaustao; dificuldade falar; fraqueza; dificuldade para engolir; visão dupla,Miastenia Gravis,Paciente apresentou 6 sintomas. Consulta realizada em 12/06/2025.
+102,Marcos Pereira,41,F,19/04/2025,dor muscular; artralgia; sono ruim; alteração de humor,Fibromialgia,Paciente apresentou 4 sintomas. Consulta realizada em 19/04/2025.
+69,Eduardo Ramos,38,M,24/03/2025,FADIGA; temperatura; manchas na pele; desorientação; FRAQUEZA,Doença de Lyme,Paciente apresentou 5 sintomas. Consulta realizada em 24/03/2025.
+225,Aline Cardoso,37,M,08/02/2025,emagrecimento; FADIGA,Doença de Addison,Paciente apresentou 2 sintomas. Consulta realizada em 08/02/2025.
+38,Vanessa Castro,72,F,19/03/2025,tremedeira; fraqueza; fala arrastada; rigidez muscular,Esclerose Lateral,Paciente apresentou 4 sintomas. Consulta realizada em 19/03/2025.
+17,Felipe Pint0,25,f,26/04/2025,fadiga; temp alta,Doença de Crohn,Paciente apresentou 2 sintomas. Consulta realizada em 26/04/2025.
+180,Vanessa Castro,56,F,12/05/2025,fala arrastada; debilidade; tremor; Dor Muscular; perda de reflexos,Esclerose Lateral,Paciente apresentou 5 sintomas. Consulta realizada em 12/05/2025.
+148,Vanessa Castro,55,Masculino,08/02/2025,Dores Articulares; cansaço; temperatura; sensibilidade luz; fraqueza,Lúpus,Paciente apresentou 5 sintomas. Consulta realizada em 08/02/2025.
+275,Natália Vieira,24,M,01/02/2025,dor nas juntas; manchas pele; temperatura; exaustão; debilidade; Dor Muscular,Doença de Lyme,Paciente apresentou 6 sintomas. Consulta realizada em 01/02/2025.
+68,R0drig0 C4rv4lh0,41,F,01/06/2025,dor articular; sensibilidade à luz; cansaco; temperatura,Lúpus,Paciente apresentou 4 sintomas. Consulta realizada em 01/06/2025.
+229,Marcos Pereira,40,Feminino,06/07/2025,dor articular; Fraqueza; mialgia; cansaco; alteração de humor; dores crônicas; alteração de humor; Fraqueza,Fibromialgia,Paciente apresentou 6 sintomas. Consulta realizada em 06/07/2025.
+70,Carla Ribeiro,63,m,01/05/2025,cansaço; dificuldade falar; visão turva; Fraqueza; visão dupla,Miastenia Gravis,Paciente apresentou 5 sintomas. Consulta realizada em 01/05/2025.
+32,Maria Silva,23,F,16/03/2025,fadiga; Perda de Peso; dor abdominal; Febre; Fraqueza; Refluxo,Doença de Crohn,Paciente apresentou 6 sintomas. Consulta realizada em 16/03/2025.
+184,Juliana Martins,26,Masculino,04/07/2025,fadiga; dor nas juntas; debilidade; sono ruim,Fibromialgia,Paciente apresentou 4 sintomas. Consulta realizada em 04/07/2025.
+266,João Santos,24,f,18/06/2025,FRAQUEZA; dor nos músculos; cansaco; perda de reflexos,Esclerose Lateral,Paciente apresentou 4 sintomas. Consulta realizada em 18/06/2025.
+226,Bruno Gomes,43,f,03/03/2025,dores articulares; FADIGA; erupção; Febre,Doença de Lyme,Paciente apresentou 4 sintomas. Consulta realizada em 03/03/2025.
+141,Letícia Correia,52,F,18/06/2025,Fraqueza; visão embaçada; disartria; cansaco; dificuldade para engolir; visão dupla,Miastenia Gravis,Paciente apresentou 6 sintomas. Consulta realizada em 18/06/2025.
+19,Lucia Ferreira,56,Feminino,26/04/2025,FEBRE; Dores Articulares; manchas pele; Fadiga; FRAQUEZA; desorientação,Doença de Lyme,Paciente apresentou 6 sintomas. Consulta realizada em 26/04/2025.
+182,Carlos Oliveira,19,M,10/05/2025,DOR MUSCULAR; dor nas juntas; alteração de humor; sono ruim,Fibromialgia,Paciente apresentou 4 sintomas. Consulta realizada em 10/05/2025.
+97,Gustavo Nascimento,74,f,29/04/2025,exaustao; confusao; Dor Muscular; dor nas juntas; fraqueza,Febre Maculosa,Paciente apresentou 5 sintomas. Consulta realizada em 29/04/2025.
+133,Marcos Pereira,27,Feminino,08/03/2025,FRAQUEZA; dor nos músculos; alteração de humor; dores crônicas,Fibromialgia,Paciente apresentou 4 sintomas. Consulta realizada em 08/03/2025.
+263,Carlos Oliveira,67,m,15/02/2025,temperatura; artralgia; DOR MUSCULAR; Fraqueza,Doença de Lyme,Paciente apresentou 4 sintomas. Consulta realizada em 15/02/2025.
+87,Daniel Dias,21,m,28/01/2025,DOR MUSCULAR; fala lenta; Fraqueza; tremor; perda de reflexos; exaustao,Esclerose Lateral,Paciente apresentou 6 sintomas. Consulta realizada em 28/01/2025.
+249,Pedro Almeida,42,F,01/07/2025,astenia; dor nos músculos; perda de reflexos; fadiga,Esclerose Lateral,Paciente apresentou 4 sintomas. Consulta realizada em 01/07/2025.
+246,Lucia Ferreira,69,M,05/04/2025,fala arrastada; Visão Turva; FADIGA; debilidade; dificuldade para engolir; visão dupla,Miastenia Gravis,Paciente apresentou 6 sintomas. Consulta realizada em 05/04/2025.
+117,João Santos,63,m,26/03/2025,dor musculo; desorientação; manchas pele; cansaço,Febre Maculosa,Paciente apresentou 4 sintomas. Consulta realizada em 26/03/2025.
+147,Aline Cardoso,52,Masculino,29/04/2025,fadiga; pressao baixa; peso baixo; Palidez; sensação de frio,Doença de Addison,Paciente apresentou 5 sintomas. Consulta realizada em 29/04/2025.
+293,Daniel Dias,18,f,29/06/2025,dores abdominais; fadiga; Febre; astenia,Doença de Crohn,Paciente apresentou 4 sintomas. Consulta realizada em 29/06/2025.
+198,Priscila Monteiro,24,M,20/06/2025,perda peso; exaustao; febr; FRAQUEZA; diarreia,Doença de Crohn,Paciente apresentou 5 sintomas. Consulta realizada em 20/06/2025.
+207,Fernanda Lima,23,M,05/04/2025,dores abdominais; emagrecimento,Doença de Crohn,Paciente apresentou 2 sintomas. Consulta realizada em 05/04/2025.
+56,Thiago Mendes,50,M,22/06/2025,cansaco; visão turva; dificuldade falar; FRAQUEZA,Miastenia Gravis,Paciente apresentou 4 sintomas. Consulta realizada em 22/06/2025.
+173,Ana Costa,55,F,27/06/2025,exaustão; temp alta; peso baixo; diarreia; diarreia; peso baixo,Doença de Crohn,Paciente apresentou 4 sintomas. Consulta realizada em 27/06/2025.
+185,Juliana Martins,72,Feminino,17/05/2025,dor nos músculos; Febre; tremedeira; Fraqueza,Febre Maculosa,Paciente apresentou 4 sintomas. Consulta realizada em 17/05/2025.
+168,Fernanda Lima,50,Masculino,08/05/2025,fala arrastada; astenia; Visão Turva; Fadiga,Miastenia Gravis,Paciente apresentou 4 sintomas. Consulta realizada em 08/05/2025.
+140,Carla Ribeiro,68,Masculino,08/06/2025,temp alta; exaustão; perda peso; diarreia,Doença de Crohn,Paciente apresentou 4 sintomas. Consulta realizada em 08/06/2025.
+254,Natália Vieira,68,m,2025-06-19,cansaço; visao turva; fala lenta; visão dupla,Miastenia Gravis,Paciente apresentou 4 sintomas. Consulta realizada em 19/06/2025.
+39,Paula Rodrigues,28,Feminino,11/07/2025,dificuldade falar; FRAQUEZA; vista embaçada; dificuldade para engolir,Miastenia Gravis,Paciente apresentou 4 sintomas. Consulta realizada em 11/07/2025.
+126,Lucia Ferreira,39,f,06/02/2025,fala lenta; cansaco; visão dupla; dificuldade para engolir,Miastenia Gravis,Paciente apresentou 4 sintomas. Consulta realizada em 06/02/2025.
+196,Paula Rodrigues,,Feminino,22/03/2025,astenia; exaustão,Fibromialgia,Paciente apresentou 2 sintomas. Consulta realizada em 22/03/2025.
+284,Daniel Dias,59,f,16/06/2025,exaustão; dor musculo; Dores Articulares; astenia; sono ruim; dores crônicas,Fibromialgia,Paciente apresentou 6 sintomas. Consulta realizada em 16/06/2025.
+138,Carla Ribeiro,58,F,20/03/2025,rash; artralgia; temperatura; mialgia; astenia,Doença de Lyme,Paciente apresentou 5 sintomas. Consulta realizada em 20/03/2025.
+113,Letícia Correia,79,f,30/05/2025,dor musculo; cansaço; sono ruim; dores crônicas,Fibromialgia,Paciente apresentou 4 sintomas. Consulta realizada em 30/05/2025.
+169,Carla Ribeiro,66,Feminino,24/02/2025,exaustão; confusão; dor musculo; hipertermia; tremores; dores articulares,Febre Maculosa,Paciente apresentou 6 sintomas. Consulta realizada em 24/02/2025.
+118,Lucia Ferreira,26,F,31/01/2025,Manchas na Pele; dor articular; alergia pele; queda de cabelo,Lúpus,Paciente apresentou 4 sintomas. Consulta realizada em 31/01/2025.
+278,Natália Vieira,46,Feminino,22/04/2025,sensibilidade à luz; artralgia; urticaria; fraqueza,Lúpus,Paciente apresentou 4 sintomas. Consulta realizada em 22/04/2025.
+272,Carla Ribeiro,69,Feminino,07/05/2025,FRAQUEZA; Dores Articulares; fadiga; dores crônicas; sono ruim,Fibromialgia,Paciente apresentou 5 sintomas. Consulta realizada em 07/05/2025.
+156,Patrícia Rocha,55,F,18/02/2025,dor estomago; Febre; perda de peso; Fadiga; diarreia,Doença de Crohn,Paciente apresentou 5 sintomas. Consulta realizada em 18/02/2025.
+177,Fernanda Lima,76,M,11/06/2025,hipotensão; cansaco; sem cor; sensação de frio,Doença de Addison,Paciente apresentou 4 sintomas. Consulta realizada em 11/06/2025.
+179,Rafael Barbosa,32,m,25/05/2025,peso baixo; pressao baixa; palido; sensação de frio; hiperpigmentação,Doença de Addison,Paciente apresentou 5 sintomas. Consulta realizada em 25/05/2025.
+3,Rafael Barbosa,51,M,20/03/2025,DOR MUSCULAR; exaustao,Fibromialgia,Paciente apresentou 2 sintomas. Consulta realizada em 20/03/2025.
+116,Bruno Gomes,41,m,01/05/2025,pálido; pressão baixa; peso baixo; fraqueza,Doença de Addison,Paciente apresentou 4 sintomas. Consulta realizada em 01/05/2025.
+144,Camila Araújo,31,Masculino,04/05/2025,TREMORES; fala arrastada; dor muscular; FADIGA,Esclerose Lateral,Paciente apresentou 4 sintomas. Consulta realizada em 04/05/2025.
+178,Juliana Martins,43,Feminino,26/04/2025,hipotensao; Palidez; emagrecimento; hiperpigmentação,Doença de Addison,Paciente apresentou 4 sintomas. Consulta realizada em 26/04/2025.
+121,Priscila Monteiro,74,M,22/01/2025,Dores Articulares; manchas na pele; cansaço; Febre,Doença de Lyme,Paciente apresentou 4 sintomas. Consulta realizada em 22/01/2025.
+211,Rodrigo Carvalho,,Masculino,03/03/2025,fala arrastada; FRAQUEZA; dificuldade para engolir; visão dupla,Miastenia Gravis,Paciente apresentou 4 sintomas. Consulta realizada em 03/03/2025.
+261,Rodrigo Carvalho,29,F,08/02/2025,Fala Arrastada; dor nos músculos; Tremores; cansaço,Esclerose Lateral,Paciente apresentou 4 sintomas. Consulta realizada em 08/02/2025.
+128,Aline Cardoso,71,Feminino,19/03/2025,visão turva; fala arrastada; Fadiga; dificuldade para engolir,Miastenia Gravis,Paciente apresentou 4 sintomas. Consulta realizada em 19/03/2025.
+75,Priscila Monteiro,59,m,20/05/2025,Perda de Peso; febr; fadiga; refluxo gastrico; diarreia,Doença de Crohn,Paciente apresentou 5 sintomas. Consulta realizada em 20/05/2025.
+30,Fernanda Lima,71,f,09/04/2025,mialgia; artralgia; cansaco; Fraqueza; sono ruim; alteração de humor,Fibromialgia,Paciente apresentou 6 sintomas. Consulta realizada em 09/04/2025.
+84,Natália Vieira,76,Feminino,31/03/2025,Confusão; erupção; artralgia,Febre Maculosa,Paciente apresentou 3 sintomas. Consulta realizada em 31/03/2025.
+270,Vanessa Castro,47,Feminino,01/05/2025,dores abdominais; emagrecimento,Doença de Crohn,Paciente apresentou 2 sintomas. Consulta realizada em 01/05/2025.
+108,Carla Ribeiro,28,,19/05/2025,FRAQUEZA; Dor Muscular; alteração de humor,Fibromialgia,Paciente apresentou 3 sintomas. Consulta realizada em 19/05/2025.
+224,Bruno Gomes,68,Feminino,08/07/2025,Dor Muscular; cansaco,Fibromialgia,Paciente apresentou 2 sintomas. Consulta realizada em 08/07/2025.
+159,Patrícia Rocha,35,Feminino,14/05/2025,dor muscular; fala lenta; debilidade; tremor; cansaco; perda de reflexos,Esclerose Lateral,Paciente apresentou 6 sintomas. Consulta realizada em 14/05/2025.
+281,Vitor Moura,33,Feminino,20/03/2025,hipotensão; fadiga; hiperpigmentação; sensação de frio,Doença de Addison,Paciente apresentou 4 sintomas. Consulta realizada em 20/03/2025.
+247,Natália Vieira,80,f,21/01/2025,FADIGA; DOR MUSCULAR; FRAQUEZA; artralgia; dores crônicas; DOR MUSCULAR; FRAQUEZA,Fibromialgia,Paciente apresentou 5 sintomas. Consulta realizada em 21/01/2025.
+223,Priscila Monteiro,74,F,22/06/2025,fadiga; perda de peso; Palidez,Doença de Addison,Paciente apresentou 3 sintomas. Consulta realizada em 22/06/2025.
+66,João Santos,26,F,04/02/2025,FADIGA; dificuldade falar; astenia; dificuldade para engolir,Miastenia Gravis,Paciente apresentou 4 sintomas. Consulta realizada em 04/02/2025.
+199,Letícia Correia,34,f,29/04/2025,dores abdominais; febr; Refluxo,Doença de Crohn,Paciente apresentou 3 sintomas. Consulta realizada em 29/04/2025.
+86,Marcos Pereira,63,M,18/02/2025,dificuldade falar; fraqueza; TREMORES; dor nos músculos; perda de reflexos,Esclerose Lateral,Paciente apresentou 5 sintomas. Consulta realizada em 18/02/2025.
+214,Rafael Barbosa,33,m,24/01/2025,fraqueza; dor articular; sono ruim,Fibromialgia,Paciente apresentou 3 sintomas. Consulta realizada em 24/01/2025.
+160,Thiago Mendes,23,M,28/05/2025,dor muscular; FADIGA; dor nas juntas; astenia; alteração de humor; dores crônicas,Fibromialgia,Paciente apresentou 6 sintomas. Consulta realizada em 28/05/2025.
+13,Gustavo Nascimento,49,Feminino,02/04/2025,temp alta; Fadiga; rash; dor articular,Lúpus,Paciente apresentou 4 sintomas. Consulta realizada em 02/04/2025.
+36,Natália Vieira,71,Feminino,16/02/2025,tremor; dificuldade falar; dor muscular; Fraqueza; rigidez muscular,Esclerose Lateral,Paciente apresentou 5 sintomas. Consulta realizada em 16/02/2025.
+29,Patrícia Rocha,43,Masculino,2025-03-27,dores articulares; exaustão; mialgia; fraqueza; dores crônicas; sono ruim,Fibromialgia,Paciente apresentou 6 sintomas. Consulta realizada em 27/03/2025.
+143,Vanessa Castro,47,m,06/07/2025,manchas pele; sensibilidade luz; exaustão; urticária; palidez,Lúpus,Paciente apresentou 5 sintomas. Consulta realizada em 06/07/2025.
+285,Lucia Ferreira,24,f,01/07/2025,temp alta; perda de peso; fadiga; dor na barriga,Doença de Crohn,Paciente apresentou 4 sintomas. Consulta realizada em 01/07/2025.
+255,Vanessa Castro,56,F,07/06/2025,FRAQUEZA; visao turva; FADIGA; dificuldade para engolir,Miastenia Gravis,Paciente apresentou 4 sintomas. Consulta realizada em 07/06/2025.
+171,Marcos Pereira,38,m,15/05/2025,astenia; Fadiga; vista embaçada; fala arrastada,Miastenia Gravis,Paciente apresentou 4 sintomas. Consulta realizada em 15/05/2025.
+52,Aline Cardoso,74,Masculino,15/02/2025,visão embaçada; debilidade; dificuldade para engolir; visão dupla,Miastenia Gravis,Paciente apresentou 4 sintomas. Consulta realizada em 15/02/2025.
+96,Fernanda Lima,40,m,06/06/2025,dores articulares; Manchas na Pele; FEBRE,Doença de Lyme,Paciente apresentou 3 sintomas. Consulta realizada em 06/06/2025.
+209,Thiago Mendes,25,Masculino,26/01/2025,cansaço; manchas na pele; febr; dor nos músculos,Febre Maculosa,Paciente apresentou 4 sintomas. Consulta realizada em 26/01/2025.
+248,Felipe Pinto,80,m,11/04/2025,Perda de Peso; febr; Fadiga; debilidade; diarreia,Doença de Crohn,Paciente apresentou 5 sintomas. Consulta realizada em 11/04/2025.
+42,Rodrigo Carvalho,33,m,05/07/2025,pálido; exaustao; perda peso,Doença de Addison,Paciente apresentou 3 sintomas. Consulta realizada em 05/07/2025.
+90,Fernanda Lima,83,M,18/04/2025,dor articular; erupção; palido; urticaria,Lúpus,Paciente apresentou 4 sintomas. Consulta realizada em 18/04/2025.
+245,Camila Araújo,30,M,21/02/2025,Febre; dor estomago; diarreia,Doença de Crohn,Paciente apresentou 3 sintomas. Consulta realizada em 21/02/2025.
+137,Maria Silva,74,Masculino,30/03/2025,Febre; Dores Articulares; fadiga; rash; fraqueza; Confusão,Doença de Lyme,Paciente apresentou 6 sintomas. Consulta realizada em 30/03/2025.
+27,Carla Ribeiro,60,Masculino,28/06/2025,hipertermia; exaustao; Confusão; Dor Muscular; manchas na pele; Dores Articulares,Febre Maculosa,Paciente apresentou 6 sintomas. Consulta realizada em 28/06/2025.
+294,João Santos,40,Masculino,23/02/2025,manchas na pele; febr; artralgia; fadiga; dor muscular; fraqueza; artralgia; fadiga,Doença de Lyme,Paciente apresentou 6 sintomas. Consulta realizada em 23/02/2025.
+142,Letícia Correia,78,M,22/01/2025,febre; dores articulares; mialgia; FRAQUEZA,Doença de Lyme,Paciente apresentou 4 sintomas. Consulta realizada em 22/01/2025.
+201,Lucia Ferreira,46,m,22/01/2025,Febre; dor nas juntas; manchas na pele,Doença de Lyme,Paciente apresentou 3 sintomas. Consulta realizada em 22/01/2025.
+1,Eduardo Ramos,,m,29/03/2025,Dor Muscular; manchas na pele,Febre Maculosa,Paciente apresentou 2 sintomas. Consulta realizada em 29/03/2025.
+269,Letícia Correia,79,,16/05/2025,visão turva; cansaco; dificuldade falar; Fraqueza,Miastenia Gravis,Paciente apresentou 4 sintomas. Consulta realizada em 16/05/2025.
+273,Vitor Moura,79,m,23/01/2025,exaustao; Dores Abdominais; perda de peso; debilidade; diarreia,Doença de Crohn,Paciente apresentou 5 sintomas. Consulta realizada em 23/01/2025.
+101,Lucia Ferreira,28,Masculino,22/02/2025,visao turva; exaustão; debilidade; visão dupla; dificuldade para engolir,Miastenia Gravis,Paciente apresentou 5 sintomas. Consulta realizada em 22/02/2025.
+260,Juliana Martins,41,M,13/03/2025,tremor; Dor Muscular; rigidez muscular,Esclerose Lateral,Paciente apresentou 3 sintomas. Consulta realizada em 13/03/2025.
+256,Marcos Pereira,51,Feminino,03/04/2025,Manchas na Pele; dores articulares; debilidade,Doença de Lyme,Paciente apresentou 3 sintomas. Consulta realizada em 03/04/2025.
+172,Juliana Martins,68,Masculino,08/07/2025,perda de peso; palidez; cansaço; Pressão Baixa; fraqueza; hiperpigmentação,Doença de Addison,Paciente apresentou 6 sintomas. Consulta realizada em 08/07/2025.
+99,Patrícia Rocha,40,M,13/05/2025,dores abdominais; cansaço; febre; emagrecimento; refluxo; diarreia,Doença de Crohn,Paciente apresentou 6 sintomas. Consulta realizada em 13/05/2025.
+37,Carla Ribeiro,61,f,23/01/2025,erupção; Febre; FADIGA; dor nas juntas; sensibilidade à luz; urticária,Lúpus,Paciente apresentou 6 sintomas. Consulta realizada em 23/01/2025.
+62,Marcos Pereira,56,m,17/02/2025,FRAQUEZA; tremores; rigidez muscular,Esclerose Lateral,Paciente apresentou 3 sintomas. Consulta realizada em 17/02/2025.
+151,Eduardo Ramos,57,f,10/07/2025,temp alta; dores abdominais; refluxo gastrico; debilidade,Doença de Crohn,Paciente apresentou 4 sintomas. Consulta realizada em 10/07/2025.
+237,Thiago Mendes,79,f,08/07/2025,FADIGA; perda peso,Doença de Addison,Paciente apresentou 2 sintomas. Consulta realizada em 08/07/2025.
+203,Eduardo Ramos,74,F,23/06/2025,Tremores; Fala Arrastada; debilidade; dor nos músculos; perda de reflexos,Esclerose Lateral,Paciente apresentou 5 sintomas. Consulta realizada em 23/06/2025.
+243,Lucia Ferreira,23,Feminino,25/06/2025,Dor Muscular; Fala Arrastada,Esclerose Lateral,Paciente apresentou 2 sintomas. Consulta realizada em 25/06/2025.
+12,Daniel Dias,,m,20/05/2025,Dores Articulares; Fadiga; manchas na pele; FEBRE; confusão; dor nos músculos,Doença de Lyme,Paciente apresentou 6 sintomas. Consulta realizada em 20/05/2025.
+297,Carla Ribeiro,28,Masculino,23/05/2025,visão turva; fadiga; fala lenta; astenia; visão dupla; dificuldade para engolir,Miastenia Gravis,Paciente apresentou 6 sintomas. Consulta realizada em 23/05/2025.
+268,Rodrigo Carvalho,31,Feminino,26/05/2025,manchas na pele; temp alta; dor articular; fadiga; urticaria; palidez,Lúpus,Paciente apresentou 6 sintomas. Consulta realizada em 26/05/2025.
+28,Camila Araújo,51,M,18/06/2025,fadiga; disartria; Visão Turva,Miastenia Gravis,Paciente apresentou 3 sintomas. Consulta realizada em 18/06/2025.
+220,Aline Cardoso,57,Feminino,09/05/2025,dor nos músculos; TREMORES; Fraqueza,Esclerose Lateral,Paciente apresentou 3 sintomas. Consulta realizada em 09/05/2025.
+5,Daniel Dias,49,F,19/03/2025,Dor Muscular; exaustão; confusao; manchas na pele; temp alta; Dores Articulares,Febre Maculosa,Paciente apresentou 6 sintomas. Consulta realizada em 19/03/2025.
+123,Bruno Gomes,70,m,27/06/2025,sensibilidade luz; dor nas juntas; exaustão; temperatura; calvície; sem cor,Lúpus,Paciente apresentou 6 sintomas. Consulta realizada em 27/06/2025.
+33,Rodrigo Carvalho,84,Feminino,03/07/2025,Fadiga; manchas na pele; dor muscular; desorientação; Febre; Tremores,Febre Maculosa,Paciente apresentou 6 sintomas. Consulta realizada em 03/07/2025.
+205,Carla Ribeiro,32,F,10/03/2025,FRAQUEZA; fala arrastada; Visão Turva; cansaço; visão dupla; dificuldade para engolir,Miastenia Gravis,Paciente apresentou 6 sintomas. Consulta realizada em 10/03/2025.
+163,Felipe Pinto,36,M,10/05/2025,cansaco; hipertermia; Perda de Peso; diarreia,Doença de Crohn,Paciente apresentou 4 sintomas. Consulta realizada em 10/05/2025.
+210,Gustavo Nascimento,62,m,05/03/2025,fala arrastada; Fraqueza,Esclerose Lateral,Paciente apresentou 2 sintomas. Consulta realizada em 05/03/2025.
+286,Aline Cardoso,31,m,24/01/2025,astenia; fala arrastada; DOR MUSCULAR; perda de reflexos; exaustao,Esclerose Lateral,Paciente apresentou 5 sintomas. Consulta realizada em 24/01/2025.
+139,Ricardo Souza,56,Masculino,23/05/2025,Dores Articulares; FRAQUEZA; cansaco; DOR MUSCULAR,Fibromialgia,Paciente apresentou 4 sintomas. Consulta realizada em 23/05/2025.
+63,Carla Ribeiro,76,Masculino,28/05/2025,FEBRE; perda peso; refluxo gastrico,Doença de Crohn,Paciente apresentou 3 sintomas. Consulta realizada em 28/05/2025.
+136,Thiago Mendes,78,Masculino,29/01/2025,perda de peso; cansaço; dor estomago; FEBRE; fraqueza,Doença de Crohn,Paciente apresentou 5 sintomas. Consulta realizada em 29/01/2025.
+129,Juliana Martins,48,Feminino,14/06/2025,FRAQUEZA; dor nos músculos; tremedeira; fadiga,Esclerose Lateral,Paciente apresentou 4 sintomas. Consulta realizada em 14/06/2025.
+291,Natália Vieira,19,M,25/01/2025,dor articular; cansaco; erupção; temp alta,Doença de Lyme,Paciente apresentou 4 sintomas. Consulta realizada em 25/01/2025.
+9,Simone Teixeira,40,m,18/06/2025,mialgia; febre; manchas pele; desorientacao,Febre Maculosa,Paciente apresentou 4 sintomas. Consulta realizada em 18/06/2025.
+71,Vitor Moura,81,Masculino,18/05/2025,cansaco; visão turva,Miastenia Gravis,Paciente apresentou 2 sintomas. Consulta realizada em 18/05/2025.
+265,Lucia Ferreira,45,f,10/07/2025,Fadiga; Dores Abdominais; temperatura,Doença de Crohn,Paciente apresentou 3 sintomas. Consulta realizada em 10/07/2025.
+65,Leonardo Cunha,37,M,17/03/2025,Fraqueza; mialgia; sono ruim; dores crônicas,Fibromialgia,Paciente apresentou 4 sintomas. Consulta realizada em 17/03/2025.
+45,Rafael Barbosa,51,Masculino,05/05/2025,debilidade; Fadiga,Fibromialgia,Paciente apresentou 2 sintomas. Consulta realizada em 05/05/2025.
+280,Paula Rodrigues,43,F,15/06/2025,erupção; fadiga,Febre Maculosa,Paciente apresentou 2 sintomas. Consulta realizada em 15/06/2025.
+157,Paula Rodrigues,25,m,14/02/2025,dor nas juntas; DOR MUSCULAR; alteração de humor; dores crônicas,Fibromialgia,Paciente apresentou 4 sintomas. Consulta realizada em 14/02/2025.
+41,Vitor Moura,57,m,23/01/2025,Dores Articulares; FADIGA; febre; astenia; dor muscular,Doença de Lyme,Paciente apresentou 5 sintomas. Consulta realizada em 23/01/2025.
+124,Simone Teixeira,34,Feminino,09/03/2025,dor nos músculos; exaustão; dor articular; Fraqueza,Fibromialgia,Paciente apresentou 4 sintomas. Consulta realizada em 09/03/2025.
+276,Patrícia Rocha,46,m,01/02/2025,FADIGA; dor abdominal; febre; diarreia,Doença de Crohn,Paciente apresentou 4 sintomas. Consulta realizada em 01/02/2025.
+217,Gustavo Nascimento,25,F,05/05/2025,Febre; rash; Dores Articulares; cansaço; cansaço; Dores Articulares,Lúpus,Paciente apresentou 4 sintomas. Consulta realizada em 05/05/2025.
+154,Daniel Dias,66,F,13/05/2025,temperatura; cansaco; debilidade,Doença de Lyme,Paciente apresentou 3 sintomas. Consulta realizada em 13/05/2025.
+24,Natália Vieira,65,m,24/02/2025,temperatura; Perda de Peso; dor estomago; fadiga,Doença de Crohn,Paciente apresentou 4 sintomas. Consulta realizada em 24/02/2025.
+262,Felipe Pinto,65,M,24/04/2025,pressão baixa; sem cor; Perda de Peso,Doença de Addison,Paciente apresentou 3 sintomas. Consulta realizada em 24/04/2025.
+111,Pedro Almeida,,m,14/04/2025,confusão; temp alta; DOR MUSCULAR; Fadiga; rash; dor nas juntas,Febre Maculosa,Paciente apresentou 6 sintomas. Consulta realizada em 14/04/2025.
+82,Eduardo Ramos,,Feminino,24/03/2025,confusão; manchas na pele; mialgia; hipertermia; cansaço; debilidade,Febre Maculosa,Paciente apresentou 6 sintomas. Consulta realizada em 24/03/2025.
+208,Vitor Moura,44,F,28/02/2025,pressao baixa; fadiga; perda peso; sensação de frio,Doença de Addison,Paciente apresentou 4 sintomas. Consulta realizada em 28/02/2025.
+213,Pedro Almeida,22,m,29/01/2025,febr; manchas pele; dor nas juntas; Fadiga,Doença de Lyme,Paciente apresentou 4 sintomas. Consulta realizada em 29/01/2025.
+40,Lucia Ferreira,48,F,16/03/2025,Fadiga; Febre; dores articulares; rash,Lúpus,Paciente apresentou 4 sintomas. Consulta realizada em 16/03/2025.
+241,Camila Araújo,25,F,18/01/2025,Perda de Peso; exaustao; azia,Doença de Crohn,Paciente apresentou 3 sintomas. Consulta realizada em 18/01/2025.
+292,Maria Silva,84,Masculino,06/03/2025,cansaço; FEBRE; rash; artralgia,Doença de Lyme,Paciente apresentou 4 sintomas. Consulta realizada em 06/03/2025.
+259,Carlos Oliveira,66,m,30/04/2025,febr; Dores Abdominais; astenia; diarreia,Doença de Crohn,Paciente apresentou 4 sintomas. Consulta realizada em 30/04/2025.
+200,João Santos,68,f,28/04/2025,disartria; Visão Turva,Miastenia Gravis,Paciente apresentou 2 sintomas. Consulta realizada em 28/04/2025.
+15,Ana Costa,48,F,02/04/2025,dor estomago; exaustao; diarreia; fraqueza,Doença de Crohn,Paciente apresentou 4 sintomas. Consulta realizada em 02/04/2025.
+48,Felipe Pinto,41,F,21/05/2025,Perda de Peso; FADIGA; dores abdominais,Doença de Crohn,Paciente apresentou 3 sintomas. Consulta realizada em 21/05/2025.
+95,Ana Costa,83,f,16/06/2025,manchas pele; Dores Articulares; FEBRE; Confusão,Doença de Lyme,Paciente apresentou 4 sintomas. Consulta realizada em 16/06/2025.
+264,Juliana Martins,73,f,11/06/2025,dor nos músculos; desorientacao; astenia,Febre Maculosa,Paciente apresentou 3 sintomas. Consulta realizada em 11/06/2025.
+228,Leonardo Cunha,67,Masculino,01/06/2025,temp alta; manchas na pele; Dor Muscular; desorientacao,Doença de Lyme,Paciente apresentou 4 sintomas. Consulta realizada em 01/06/2025.
+274,João Santos,26,Masculino,29/01/2025,fadiga; peso baixo; hipotensão; hiperpigmentação,Doença de Addison,Paciente apresentou 4 sintomas. Consulta realizada em 29/01/2025.
+202,Juliana Martins,65,Masculino,10/06/2025,Febre; erupção; dores articulares; fotofobia; queda de cabelo,Lúpus,Paciente apresentou 5 sintomas. Consulta realizada em 10/06/2025.
+162,Paula Rodrigues,64,m,10/03/2025,cansaço; dor articular; manchas pele; confusao,Doença de Lyme,Paciente apresentou 4 sintomas. Consulta realizada em 10/03/2025.
+44,Ricardo Souza,77,m,09/02/2025,exaustao; visão turva; disartria; debilidade; visão dupla,Miastenia Gravis,Paciente apresentou 5 sintomas. Consulta realizada em 09/02/2025.
+218,João Santos,73,f,12/06/2025,dor muscular; dor articular; astenia; dores crônicas; sono ruim,Fibromialgia,Paciente apresentou 5 sintomas. Consulta realizada em 12/06/2025.
+146,Vanessa Castro,69,Feminino,06/03/2025,Fraqueza; tremedeira; rigidez muscular; exaustao,Esclerose Lateral,Paciente apresentou 4 sintomas. Consulta realizada em 06/03/2025.
+191,Marcos Pereira,22,Masculino,19/05/2025,Pressão Baixa; palidez; perda peso; fadiga; hiperpigmentação; Fraqueza,Doença de Addison,Paciente apresentou 6 sintomas. Consulta realizada em 19/05/2025.
+221,Carla Ribeiro,83,M,23/01/2025,dor muscular; temperatura; Fadiga; TREMORES,Febre Maculosa,Paciente apresentou 4 sintomas. Consulta realizada em 23/01/2025.
+252,Leonardo Cunha,46,f,19/05/2025,Fraqueza; visão embaçada; exaustao; Fala Arrastada,Miastenia Gravis,Paciente apresentou 4 sintomas. Consulta realizada em 19/05/2025.
+4,Eduardo Ramos,47,Masculino,25/06/2025,perda de peso; pressão baixa; hiperpigmentação; sensação de frio,Doença de Addison,Paciente apresentou 4 sintomas. Consulta realizada em 25/06/2025.
+106,Lucia Ferreira,50,M,01/02/2025,Perda de Peso; exaustao; temp alta,Doença de Crohn,Paciente apresentou 3 sintomas. Consulta realizada em 01/02/2025.
+54,Eduardo Ramos,43,Feminino,16/06/2025,dores abdominais; temperatura; Fadiga; azia; astenia,Doença de Crohn,Paciente apresentou 5 sintomas. Consulta realizada em 16/06/2025.
+134,Thiago Mendes,,Feminino,09/03/2025,astenia; FADIGA; Fala Arrastada; Visão Turva; dificuldade para engolir,Miastenia Gravis,Paciente apresentou 5 sintomas. Consulta realizada em 09/03/2025.
+2,Juliana Martins,53,F,21/05/2025,fotofobia; Manchas na Pele; temperatura; debilidade,Lúpus,Paciente apresentou 4 sintomas. Consulta realizada em 21/05/2025.
+132,Bruno Gomes,35,Masculino,13/04/2025,dor nas juntas; FEBRE; rash; fadiga; fraqueza,Doença de Lyme,Paciente apresentou 5 sintomas. Consulta realizada em 13/04/2025.
+104,Felipe Pinto,74,M,01/04/2025,Fotofobia; Fadiga; dor articular; Manchas na Pele,Lúpus,Paciente apresentou 4 sintomas. Consulta realizada em 01/04/2025.
+50,Aline Cardoso,61,F,02/07/2025,visão embaçada; disartria; cansaço; debilidade,Miastenia Gravis,Paciente apresentou 4 sintomas. Consulta realizada em 02/07/2025.
+81,Carlos Oliveira,26,Feminino,23/03/2025,Dores Articulares; temperatura; erupção; cansaco,Doença de Lyme,Paciente apresentou 4 sintomas. Consulta realizada em 23/03/2025.
+206,Bruno Gomes,64,m,22/01/2025,mialgia; desorientacao,Febre Maculosa,Paciente apresentou 2 sintomas. Consulta realizada em 22/01/2025.
+35,Priscila Monteiro,28,F,07/06/2025,FRAQUEZA; disartria; visao turva,Miastenia Gravis,Paciente apresentou 3 sintomas. Consulta realizada em 07/06/2025.
+92,Letícia Correia,47,m,22/02/2025,Fraqueza; cansaço; visão embaçada; dificuldade para engolir; visão dupla,Miastenia Gravis,Paciente apresentou 5 sintomas. Consulta realizada em 22/02/2025.
+53,Daniel Dias,27,F,15/07/2025,fraqueza; Fala Arrastada; Fadiga; Visão Turva; visão dupla; dificuldade para engolir,Miastenia Gravis,Paciente apresentou 6 sintomas. Consulta realizada em 15/07/2025.
+242,Priscila Monteiro,48,,30/04/2025,desorientacao; cansaço; dor nos músculos; temperatura; tremor; dor articular,Febre Maculosa,Paciente apresentou 6 sintomas. Consulta realizada em 30/04/2025.
+14,Daniel Dias,75,F,29/03/2025,dor muscular; cansaço; manchas pele; confusão; Febre; Fraqueza; Tremores,Febre Maculosa,Paciente apresentou 7 sintomas. Consulta realizada em 29/03/2025.
+89,Felipe Pinto,,m,13/02/2025,disartria; Dor Muscular; FRAQUEZA; TREMORES; perda de reflexos,Esclerose Lateral,Paciente apresentou 5 sintomas. Consulta realizada em 13/02/2025.
+167,Daniel Dias,70,M,11/07/2025,fraqueza; dor articular; dores crônicas,Fibromialgia,Paciente apresentou 3 sintomas. Consulta realizada em 11/07/2025.
+295,Maria Silva,,f,16/02/2025,hipotensão; palidez; perda peso,Doença de Addison,Paciente apresentou 3 sintomas. Consulta realizada em 16/02/2025.
+135,Thiago Mendes,56,m,20/04/2025,FRAQUEZA; Dor Muscular; dor nas juntas; alteração de humor,Fibromialgia,Paciente apresentou 4 sintomas. Consulta realizada em 20/04/2025.
+288,Pedro Almeida,27,F,01/06/2025,Perda de Peso; FEBRE; debilidade; diarreia,Doença de Crohn,Paciente apresentou 4 sintomas. Consulta realizada em 01/06/2025.
+244,Carla Ribeiro,68,m,23/04/2025,palidez; perda de peso; hiperpigmentação,Doença de Addison,Paciente apresentou 3 sintomas. Consulta realizada em 23/04/2025.
+55,Vitor Moura,54,Feminino,14/06/2025,TREMORES; fala lenta; astenia,Esclerose Lateral,Paciente apresentou 3 sintomas. Consulta realizada em 14/06/2025.
+51,Eduardo Ramos,24,F,07/06/2025,dor estomago; exaustão; diarreia,Doença de Crohn,Paciente apresentou 3 sintomas. Consulta realizada em 07/06/2025.
+175,Leonardo Cunha,67,M,02/05/2025,febre; dor estomago; perda peso; exaustao; FRAQUEZA,Doença de Crohn,Paciente apresentou 5 sintomas. Consulta realizada em 02/05/2025.
+190,Leonardo Cunha,63,M,13/03/2025,TREMORES; mialgia; astenia; fala arrastada,Esclerose Lateral,Paciente apresentou 4 sintomas. Consulta realizada em 13/03/2025.
+299,Rafael Barbosa,34,f,29/01/2025,Fotofobia; temperatura; cansaco; erupção; artralgia,Lúpus,Paciente apresentou 5 sintomas. Consulta realizada em 29/01/2025.
+188,Pedro Almeida,56,m,14/02/2025,FADIGA; disartria; vista embaçada; astenia; dificuldade para engolir; visão dupla; vista embaçada; FADIGA,Miastenia Gravis,Paciente apresentou 6 sintomas. Consulta realizada em 14/02/2025.
+170,Fernanda Lima,78,Masculino,04/07/2025,hipertermia; manchas na pele; cansaco; fraqueza; Palidez,Lúpus,Paciente apresentou 5 sintomas. Consulta realizada em 04/07/2025.
+59,Simone Teixeira,81,f,24/03/2025,Fadiga; perda peso; pálido; hipotensao,Doença de Addison,Paciente apresentou 4 sintomas. Consulta realizada em 24/03/2025.
+49,Letícia Correia,34,Masculino,04/07/2025,disartria; Fraqueza; FADIGA; visão turva,Miastenia Gravis,Paciente apresentou 4 sintomas. Consulta realizada em 04/07/2025.
+236,Juliana Martins,51,M,27/06/2025,manchas pele; febre,Doença de Lyme,Paciente apresentou 2 sintomas. Consulta realizada em 27/06/2025.
+253,Ricardo Souza,50,m,28/04/2025,exaustão; Fala Arrastada; astenia; visão turva; visão dupla,Miastenia Gravis,Paciente apresentou 5 sintomas. Consulta realizada em 28/04/2025.
+22,Fernanda Lima,51,m,12/03/2025,fala lenta; Dor Muscular; FRAQUEZA; perda de reflexos,Esclerose Lateral,Paciente apresentou 4 sintomas. Consulta realizada em 12/03/2025.
+161,Felipe Pinto,79,F,18/01/2025,Fadiga; Manchas na Pele; dores articulares,Doença de Lyme,Paciente apresentou 3 sintomas. Consulta realizada em 18/01/2025.
+277,Gustavo Nascimento,20,M,03/04/2025,erupção; cansaço; confusao; dor muscular,Doença de Lyme,Paciente apresentou 4 sintomas. Consulta realizada em 03/04/2025.
+192,Simone Teixeira,23,f,25/03/2025,dor nos músculos; FRAQUEZA; fala lenta; exaustao; perda de reflexos,Esclerose Lateral,Paciente apresentou 5 sintomas. Consulta realizada em 25/03/2025.
+258,Bruno Gomes,60,Masculino,10/05/2025,visao turva; Fala Arrastada; exaustão; FRAQUEZA,Miastenia Gravis,Paciente apresentou 4 sintomas. Consulta realizada em 10/05/2025.
+150,Carlos Oliveira,44,f,16/02/2025,desorientacao; dor nos músculos; Febre; Fadiga; manchas pele; astenia; tremor,Febre Maculosa,Paciente apresentou 7 sintomas. Consulta realizada em 16/02/2025.
+131,Ana Costa,68,m,20/03/2025,manchas pele; dor nas juntas; confusão,Doença de Lyme,Paciente apresentou 3 sintomas. Consulta realizada em 20/03/2025.
+152,Vitor Moura,78,M,03/05/2025,fotofobia; temp alta; manchas na pele; fraqueza,Lúpus,Paciente apresentou 4 sintomas. Consulta realizada em 03/05/2025.
+100,Ana Costa,60,M,23/02/2025,exaustao; FEBRE; perda peso; dores abdominais; azia,Doença de Crohn,Paciente apresentou 5 sintomas. Consulta realizada em 23/02/2025.
+88,Pedro Almeida,36,m,28/01/2025,visao turva; fadiga; dificuldade para engolir; visão dupla,Miastenia Gravis,Paciente apresentou 4 sintomas. Consulta realizada em 28/01/2025.
+215,Simone Teixeira,57,Masculino,23/06/2025,dificuldade falar; TREMORES,Esclerose Lateral,Paciente apresentou 2 sintomas. Consulta realizada em 23/06/2025.
+122,Carlos Oliveira,43,F,16/05/2025,Dores Articulares; FRAQUEZA; dor nos músculos; Fadiga; dores crônicas,Fibromialgia,Paciente apresentou 5 sintomas. Consulta realizada em 16/05/2025.
+300,Lucia Ferreira,64,Masculino,28/03/2025,astenia; exaustão; visao turva; fala lenta; dificuldade para engolir,Miastenia Gravis,Paciente apresentou 5 sintomas. Consulta realizada em 28/03/2025.
+21,Eduardo Ramos,56,f,19/06/2025,dor articular; hipertermia; exaustão; astenia; confusão,Doença de Lyme,Paciente apresentou 5 sintomas. Consulta realizada em 19/06/2025.
+189,Bruno Gomes,41,Feminino,03/02/2025,febr; rash; Fadiga; dor nos músculos; desorientação,Doença de Lyme,Paciente apresentou 5 sintomas. Consulta realizada em 03/02/2025.
+72,V4ness4 C4str0,30,f,31/01/2025,exaustao; Dores Articulares; alteração de humor,Fibromialgia,Paciente apresentou 3 sintomas. Consulta realizada em 31/01/2025.
+107,Lucia Ferreira,73,M,20/05/2025,Dor Muscular; artralgia; debilidade; cansaco,Fibromialgia,Paciente apresentou 4 sintomas. Consulta realizada em 20/05/2025.
+271,Bruno Gomes,32,M,04/07/2025,exaustao; temperatura; FRAQUEZA; FRAQUEZA; exaustao,Lúpus,Paciente apresentou 3 sintomas. Consulta realizada em 04/07/2025.
+103,Leonardo Cunha,30,m,27/02/2025,fadiga; dor abdominal,Doença de Crohn,Paciente apresentou 2 sintomas. Consulta realizada em 27/02/2025.

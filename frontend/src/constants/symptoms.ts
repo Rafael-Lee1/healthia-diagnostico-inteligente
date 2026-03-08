@@ -1,0 +1,33 @@
+export const COMMON_SYMPTOMS = [
+  'febre',
+  'cansaço',
+  'fadiga',
+  'dor no corpo',
+  'dor muscular',
+  'dor articular',
+  'fraqueza',
+  'visão turva',
+  'visão dupla',
+  'dificuldade para engolir',
+  'tremores',
+  'rigidez muscular',
+  'manchas na pele',
+  'confusão',
+  'perda de peso',
+  'dor abdominal',
+  'diarreia',
+  'fotofobia',
+  'insônia',
+  'falta de ar',
+  'tosse seca',
+  'náusea',
+  'vômito',
+  'palidez',
+  'sensibilidade ao frio',
+  'taquicardia',
+  'boca seca',
+  'olhos ressecados',
+];
+
+export const MIN_SYMPTOMS = 2;
+export const MAX_SYMPTOMS = 8;

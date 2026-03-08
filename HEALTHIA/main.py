@@ -1,4 +1,5 @@
 from api.sintomasAPI import router as sintomas_router
+import os
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
@@ -6,16 +7,20 @@ from fastapi.middleware.cors import CORSMiddleware
 app = FastAPI(title="HealthIA API", description="API para predição de diagnósticos médicos com base em sintomas.", version="1.0.0")
 
 origins = [
-	"http://127.0.0.1:5173",
-	"http://localhost:5173",
+    "http://127.0.0.1:5173",
+    "http://localhost:5173",
 ]
 
+frontend_url = os.getenv("FRONTEND_URL", "").strip()
+if frontend_url:
+    origins.append(frontend_url)
+
 app.add_middleware(
-	CORSMiddleware,
-	allow_origins=origins,
-	allow_credentials=True,
-	allow_methods=["*"],
-	allow_headers=["*"],
+    CORSMiddleware,
+    allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
 )
 
 app.include_router(sintomas_router,  tags=["Sintomas"])

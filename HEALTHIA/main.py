@@ -1,10 +1,16 @@
-from api.sintomasAPI import router as sintomas_router
 import os
+
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
+from api.sintomasAPI import router as sintomas_router
 
-app = FastAPI(title="HealthIA API", description="API para predição de diagnósticos médicos com base em sintomas.", version="1.0.0")
+
+app = FastAPI(
+    title="HealthIA API",
+    description="API educacional para sugestão de hipóteses de doenças com base em sintomas em texto livre.",
+    version="2.0.0",
+)
 
 origins = [
     "http://127.0.0.1:5173",
@@ -31,4 +37,4 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-app.include_router(sintomas_router,  tags=["Sintomas"])
+app.include_router(sintomas_router, tags=["Sintomas"])

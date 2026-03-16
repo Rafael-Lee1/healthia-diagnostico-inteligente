@@ -80,27 +80,27 @@ export function SymptomInput({ symptoms, suggestions, onChange, error }: Symptom
   };
 
   return (
-    <Card className="space-y-4 p-5 md:p-6">
+    <Card className="space-y-5 border-white/70 bg-white/88 p-5 shadow-card dark:border-white/10 dark:bg-slate-900/82 md:p-6">
       <div className="flex flex-col gap-2 md:flex-row md:items-end md:justify-between">
         <div>
-          <label htmlFor="symptom-input" className="text-base font-semibold text-slate-950 dark:text-white">
+          <label htmlFor="symptom-input" className="text-lg font-bold text-ink-900 dark:text-white">
             Sintomas informados
           </label>
-          <p className="text-sm text-slate-500 dark:text-slate-400">
+          <p className="mt-1 text-sm leading-6 text-slate-500 dark:text-slate-400">
             Digite um sintoma por vez e pressione <strong>Enter</strong> ou <strong>,</strong>. Você também pode colar uma lista separada por vírgulas.
           </p>
         </div>
-        <div className="rounded-full bg-slate-100 px-3 py-1 text-xs font-semibold text-slate-700 dark:bg-slate-800 dark:text-slate-200">
+        <div className="rounded-full border border-slate-200/80 bg-slate-50/90 px-3 py-1.5 text-xs font-semibold uppercase tracking-[0.14em] text-slate-700 dark:border-white/10 dark:bg-white/5 dark:text-slate-200">
           {symptoms.length}/{MAX_SYMPTOMS} sintomas • mínimo de {MIN_SYMPTOMS}
         </div>
       </div>
 
-      <div className={cn('rounded-3xl border bg-white/70 p-3 transition dark:bg-slate-950/50', error ? 'border-rose-400 ring-4 ring-rose-100 dark:ring-rose-950/30' : 'border-slate-200 focus-within:border-brand-400 focus-within:ring-4 focus-within:ring-brand-100 dark:border-slate-800 dark:focus-within:ring-brand-950/40')}>
-        <div className="mb-3 flex flex-wrap gap-2">
+      <div className={cn('rounded-[1.65rem] border bg-[linear-gradient(180deg,rgba(255,255,255,0.96),rgba(248,250,252,0.92))] p-4 shadow-inner transition dark:bg-[linear-gradient(180deg,rgba(15,23,42,0.75),rgba(2,6,23,0.65))]', error ? 'border-rose-400 ring-4 ring-rose-100 dark:ring-rose-950/30' : 'border-slate-200/80 focus-within:border-brand-400 focus-within:ring-4 focus-within:ring-brand-100 dark:border-white/10 dark:focus-within:ring-brand-950/40')}>
+        <div className="mb-3 flex min-h-8 flex-wrap gap-2">
           {symptoms.map((symptom) => (
             <span
               key={symptom}
-              className="inline-flex items-center gap-2 rounded-full bg-brand-50 px-3 py-2 text-sm font-medium text-brand-700 ring-1 ring-brand-100 dark:bg-brand-950/40 dark:text-brand-200 dark:ring-brand-900/40"
+              className="inline-flex items-center gap-2 rounded-full bg-brand-50 px-3 py-2 text-sm font-medium text-brand-700 ring-1 ring-brand-100 transition hover:-translate-y-0.5 dark:bg-brand-950/40 dark:text-brand-200 dark:ring-brand-900/40"
             >
               {symptom}
               <button
@@ -133,10 +133,14 @@ export function SymptomInput({ symptoms, suggestions, onChange, error }: Symptom
             }
           }}
           placeholder="Ex.: febre, cansaço, dor no corpo"
-          className="w-full border-none bg-transparent px-2 py-3 text-base text-slate-900 outline-none placeholder:text-slate-400 dark:text-white dark:placeholder:text-slate-500"
+          className="w-full border-none bg-transparent px-2 py-3 text-[15px] text-ink-900 outline-none placeholder:text-slate-400 dark:text-white dark:placeholder:text-slate-500"
           aria-describedby="symptom-help"
           aria-invalid={Boolean(error)}
         />
+        <div className="mt-2 flex items-center justify-between gap-3 border-t border-slate-200/70 px-2 pt-3 text-xs text-slate-500 dark:border-white/10 dark:text-slate-400">
+          <span>Entrada livre em linguagem natural</span>
+          <span>Enter, vírgula ou colagem em massa</span>
+        </div>
       </div>
 
       <div id="symptom-help" className="space-y-3">
@@ -151,7 +155,7 @@ export function SymptomInput({ symptoms, suggestions, onChange, error }: Symptom
                 key={suggestion}
                 type="button"
                 onClick={() => commitSymptoms(suggestion)}
-                className="rounded-full border border-slate-200 bg-slate-50 px-3 py-2 text-sm text-slate-700 transition hover:border-brand-300 hover:bg-brand-50 hover:text-brand-700 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-300 dark:border-slate-700 dark:bg-slate-800 dark:text-slate-200 dark:hover:border-brand-700 dark:hover:bg-brand-950/30 dark:hover:text-brand-100"
+                className="rounded-full border border-slate-200/80 bg-slate-50/90 px-3 py-2 text-sm text-slate-700 transition hover:-translate-y-0.5 hover:border-brand-300 hover:bg-brand-50 hover:text-brand-700 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-300 dark:border-white/10 dark:bg-white/5 dark:text-slate-200 dark:hover:border-brand-700 dark:hover:bg-brand-950/30 dark:hover:text-brand-100"
               >
                 + {suggestion}
               </button>

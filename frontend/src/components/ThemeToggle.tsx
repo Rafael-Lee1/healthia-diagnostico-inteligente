@@ -14,12 +14,12 @@ export function ThemeToggle({ theme, onToggle }: ThemeToggleProps) {
       size="sm"
       onClick={onToggle}
       aria-label={label}
-      className="min-w-[132px]"
+      className="min-w-[136px]"
       iconLeft={
         theme === 'dark' ? (
-          <span aria-hidden="true">☀️</span>
+          <span aria-hidden="true" className="text-base leading-none">☀</span>
         ) : (
-          <span aria-hidden="true">🌙</span>
+          <span aria-hidden="true" className="text-base leading-none">◐</span>
         )
       }
     >

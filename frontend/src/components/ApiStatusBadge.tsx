@@ -29,11 +29,11 @@ export function ApiStatusBadge({ status, message }: ApiStatusBadgeProps) {
   const current = statusMap[status];
 
   return (
-    <div className="inline-flex items-center gap-3 rounded-full border border-white/60 bg-white/80 px-4 py-2 text-sm shadow-sm backdrop-blur dark:border-slate-700 dark:bg-slate-900/80">
+    <div className="inline-flex items-center gap-3 rounded-full border border-white/70 bg-white/88 px-4 py-2 text-sm shadow-sm backdrop-blur dark:border-white/10 dark:bg-slate-900/88">
       <span className={cn('h-2.5 w-2.5 rounded-full', current.dot, status === 'checking' && 'animate-pulse')} aria-hidden="true" />
       <div className="flex flex-col">
-        <span className={cn('font-semibold', current.tone)}>{current.label}</span>
-        {message ? <span className="text-xs text-slate-500 dark:text-slate-400">{message}</span> : null}
+        <span className={cn('font-semibold tracking-[0.01em]', current.tone)}>{current.label}</span>
+        {message ? <span className="max-w-[220px] truncate text-xs text-slate-500 dark:text-slate-400">{message}</span> : null}
       </div>
     </div>
   );

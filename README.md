@@ -1,3 +1,5 @@
+![Texto alternativo](https://github.com/Rafael-Lee1/Icons/blob/287222be08e0d518ae3ce8066f3b0ae7f7cf2709/healthia_diagnostics.png)
+
 # 🧠 HealthIA — Context-Aware AI Symptom Triage Assistant
 
 **HealthIA** is a full-stack AI application that analyzes symptoms and patient context to suggest likely conditions in an educational triage setting.  
@@ -126,3 +128,8 @@ python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 uvicorn main:app --reload
+
+cd frontend
+npm install
+npm run dev
+
